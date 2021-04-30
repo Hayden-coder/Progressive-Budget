@@ -20,6 +20,8 @@ Node server.js
 
 <img width="922" alt="Screenshot 2021-04-29 183002" src="https://user-images.githubusercontent.com/74078719/116641438-9a240980-a921-11eb-9bb6-5464b2fd69c8.png">
 
+<img width="932" alt="Screenshot 2021-04-29 193145" src="https://user-images.githubusercontent.com/74078719/116641522-baec5f00-a921-11eb-8749-0bcf73b0deb9.png">
+
 https://github.com/Hayden-coder/Progressive-Budget
 
 https://progessive-budget-app-ked.herokuapp.com/

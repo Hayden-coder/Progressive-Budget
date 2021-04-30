@@ -16,6 +16,8 @@ Npm install
 
 Node server.js
 
+Localhost:3000
+
 ## Links 
 
 <img width="922" alt="Screenshot 2021-04-29 183002" src="https://user-images.githubusercontent.com/74078719/116641438-9a240980-a921-11eb-9bb6-5464b2fd69c8.png">
